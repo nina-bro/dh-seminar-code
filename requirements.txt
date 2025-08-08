@@ -1,3 +1,6 @@
 kraken
 ipywidgets
 Pillow
+spacy
+lxml
+os
