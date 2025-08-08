@@ -1,0 +1,135 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>Brief an Niclas Hopgarten, Probst des Stifts zu Sankt Augustin zu Erfurt</title>
+            </titleStmt>
+            <editionStmt>
+                <respStmt>
+                    <name>Nina Brolich</name>
+                    <resp>Transkription und Edition</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Anna Neovesky</name>
+                    <resp>Supervision</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <p>Unveröffentlichtes Digitalisat</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Staatsarchiv Nürnberg, Reichsstadt Nürnberg, Briefbücher des Inneren
+                        Rates</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName>Rat der Stadt Nürnberg</orgName>
+                    <date when="1409-02-01">01. Februar </date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Nyclas Hopgarten</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person>
+                        <persName>Nyclas Hopgarten</persName>
+                    </person>
+                    <person>
+                        <persName>Wilhelm Snode</persName>
+                    </person>
+                    <person>
+                        <persName>Burkhard Müllner</persName>
+                    </person>
+                </listPerson>
+                <listPlace>
+                    <place>
+                        <placeName>Ebs</placeName>
+                    </place>
+                    <place>
+                        <placeName>Brück</placeName>
+                    </place>
+                </listPlace>
+                <listOrg>
+                    <org>
+                        <orgName>Stift zu Sankt Augustin zu Erfurt</orgName>
+                    </org>
+                </listOrg>
+            </particDesc>
+        </profileDesc>
+
+
+    </teiHeader>
+
+
+    <facsimile>
+        <surface xml:id="page1">
+            <graphic url="WiSe2025/UE-Digital-History/letter-1.jpg" />
+        </surface>
+    </facsimile>
+
+    <text>
+        <body>
+            <div type="diplomatic">
+                <pb facs="#page1" />
+                <opener>
+                    <p>hern <persName>Nyclaſen hopgarten</persName> Probſten des Stiffts</p>
+                    <p>cʒu <orgName>ſant Auguſtin cʒu Erfforden</orgName></p>
+                </opener>
+                <p>Erſamer vnd lieber herre . vns hat fürgelegt <persName>vvılhelm Snode</persName> vnſer Burger
+                    vvie Jr ſeınem Armman den <persName>Burkharden Müllner</persName> von <placeName>Prück</placeName>
+                    vmb werltlich ſache für euch auf geiſtlıch gerihte geladen habt
+                    von des ~ Pfarrers wegen von <placeName>Ebs</placeName> . vnd doch derſelb vnſer
+                    Burger . als Er vns fürgelegt hat / dem ~ klager des rehten von dem
+                    egenanten ~ ſeinem Armman cʒehelffen in verſagt hab / Rogamus / daʒ
+                    Jr vmb vnſern willen denſelben ~ klager . daran weiſen wöllet /
+                    daʒ Er von der klage auf geiſtlichen rehten laſʒ . Als etc das wöllen etc
+                    vnd het dann derſelb ~ klager / cʒu dem vorgenanten ~ vnſers Burgers drm
+                    manne iht cʒeſprechen . darümb vvil derſelb vnſer Burger  vo  Jm oder
+                    ſeinem ſcheinboten mit ſeinem vollen gen  vmber von denſelben ſeınem
+                    Armmanne vnuercʒogen ſlewnigs rehten gern helffen vvenn Er des
+                    ermant wirdt ongeuerde .
+                </p>
+                
+                <closer>
+                    datum Jnte vıglia purificationis Marie
+                </closer>
+            </div>
+            <div type="normalized">
+                <pb facs="#page1" />
+                <opener>
+                    <p>hern <persName>nyclasen hopgarten</persName> probsten des stiffts</p>
+                    <p>czu <orgName>sant augustin czu erfforden</orgName></p>
+                </opener>
+                <p>ersamer und lieber herre . uns hat fürgelegt <persName>wilhelm snode</persName> unser burger
+                    wie ir seinem armman den <persName>burkharden müllner</persName> von <placeName>prück</placeName>
+                    umb werltlich sache für euch auf geistlich gerihte geladen habt
+                    von des  pfarrers wegen von <placeName>ebs</placeName> . und doch derselb unser
+                    burger . als er uns fürgelegt hat  dem  klager des rehten von dem
+                    egenanten  seinem armman czehelffen in versagt hab  rogamus  daz
+                    ir umb unsern willen denselben  klager . daran weisen wöllet 
+                    daz er von der klage auf geistlichen rehten lasz . als etc das wöllen etc
+                    und het dann derselb  klager  czu dem vorgenanten  unsers burgers drm
+                    manne iht czesprechen . darümb wil derselb unser burger  vo  im oder
+                    seinem scheinboten mit seinem vollen gen  umber von denselben seinem
+                    armmanne unverczogen slewnigs rehten gern helffen wenn er des
+                    ermant wirdt ongeverde .
+                </p>
+                
+                <closer>
+                    datum inte viglia purificationis marie
+                </closer>
+            </div>
+        </body>
+    </text>
+
+</TEI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Der Graf von Monte Cristo</title>
+        <author>Alexandre Dumas</author>
+        <year>1845</year>
+    </book>
+    <book>
+        <title>I Who Have Never Known Men</title>
+        <author>Jacqueline Harpman</author>
+        <year>1995</year>
+    </book>
+    <book>
+        <title>Effi Briest</title>
+        <author>Theodor Fontante</author>
+        <year>1895</year>
+    </book>
+</books>
